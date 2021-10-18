@@ -1,4 +1,5 @@
 <?php
+//----swiper slider of woocomerce orders with details
 function customer_order_slide() {
     $customer = ' <div class="c-promo-single__headline js-promo-single-bar is-active"> Sample </div> <div class="swiper-container recent-orders">
 			<div class="swiper-wrapper">';
